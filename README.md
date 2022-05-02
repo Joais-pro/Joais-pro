@@ -25,6 +25,9 @@
  <div>
   <a href = "joaissilvaestudante@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_black"></a> 
   <a href="https://www.linkedin.com/in/joaisfelix/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    
+    
+    ![Snake animation](https://github.com/Joais-pro/Joais-pro/blob/output/github-contribution-grid-snake.svg)
  </div>
   
    
